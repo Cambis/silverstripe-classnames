@@ -1,6 +1,6 @@
 {
   "name": "silverstripe-classnames",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Classnames package for Silverstripe.",
   "private": "true",
   "keywords": [
