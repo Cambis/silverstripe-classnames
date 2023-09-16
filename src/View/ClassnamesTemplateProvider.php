@@ -16,10 +16,6 @@ class ClassnamesTemplateProvider implements TemplateGlobalProvider
                 'method' => 'classnames',
                 'casting' => 'HTMLText',
             ],
-            'Classnames' => [
-                'method' => 'classnames',
-                'casting' => 'HTMLText',
-            ],
         ];
     }
 

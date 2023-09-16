@@ -16,11 +16,6 @@ class ClassnamesTemplateProviderTest extends SapphireTest
             'Cn',
             ClassnamesTemplateProvider::get_template_global_variables(),
         );
-
-        $this->assertArrayHasKey(
-            'Classnames',
-            ClassnamesTemplateProvider::get_template_global_variables(),
-        );
     }
 
     public function validClassNamesDataProvider(): array
