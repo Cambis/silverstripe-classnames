@@ -8,7 +8,7 @@ composer require cambis/silverstripe-classnames
 ```
 
 ## Usage
-This package provides the `$Classnames` (alias `$Cn`) method for use Silverstripe templates.
+This package provides the `$Cn` method for use Silverstripe templates.
 Arguments must be parsed as a JSON encoded array.
 
 One way to accomplish this is to create a function that returns the appropriate encoded values,
